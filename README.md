@@ -20,3 +20,5 @@ $ cd os1
 $ make run LOG=TRACE
 
 得到了与引言中一致的预期输出
+
+rustlings
