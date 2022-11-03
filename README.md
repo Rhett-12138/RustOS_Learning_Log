@@ -22,8 +22,8 @@ $ make run LOG=TRACE
 得到了与引言中一致的预期输出
 
 rustlings
-##Day02 在os2edu.cn重新开始任务
-###已完成
+## Day02 在os2edu.cn重新开始任务
+### 已完成
 本地可完成rustlings，学习github和git的基础使用
 
 学习了rust的一点内容，
